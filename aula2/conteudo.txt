@@ -1,0 +1,15 @@
+Primeira programação em bloco de notas.
+
+Classe : Representa qualquer coisa. 
+
+Dentro de uma sala de aula por exemplo.
+
+    Não é no plural pois representa uma única coisa.
+    Precisa ter necessariamente o primeira caracter na caixa alta.
+
+    Mesa.
+    Computador.
+    Cadeira.
+    Aluno.
+    Mochila.
+    Celular.
